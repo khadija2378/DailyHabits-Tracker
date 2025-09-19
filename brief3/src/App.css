@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(to right, #E3FFE7, #D9E7FF);
+  padding: 2rem;
+}
+.user-column {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.habit-btn {
+  margin-right: 0.5rem;
+}
+.colorfait{
+  background: #D67BED;
+  color: #fff;
+}
+.colorfait:hover{
+  background: #c772dc;
+  color: #fff;
+}
+.colorannul{
+  background: #F2F23C;
+}
+.colorannul:hover{
+background: #eeee41;
+}
+.colorsuprim{
+  background: #FF3535;
+  color: #fff;
+}
+.colorsuprim:hover{
+ background: #eb3131;
+color: #fff;}
